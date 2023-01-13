@@ -1,4 +1,4 @@
-### Oi!!! eu sou o Yuri Fernandes
+### Oi!!! eu sou Yuri Fernandes
 
 - 🔭 Hoje trabalho como desenvolvedor Full Stack
 - 🌱 Estudando Jquery, Java, Typescript
