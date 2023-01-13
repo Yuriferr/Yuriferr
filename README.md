@@ -6,6 +6,6 @@
 
 <div>
   <a href="https://github.com/Yuriferr">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=yuriferr&repo=github-readme-stats"/>
   <img height="180em" src=""/>
 </div>
