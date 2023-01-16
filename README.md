@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/Yuriferr">
-   <img width="47.9%"  src="https://github-readme-stats.vercel.app/api?username=Yuriferr&bg_color=30,0047AB,BD00FF&title_color=fff&text_color=fff"/>
-   <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuriferr&layout=compact&bg_color=20,BD00FF,0047AB&title_color=fff&text_color=fff"/>
+   <img width="49.3%"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yuriferr&bg_color=30,0047AB,BD00FF&title_color=fff&text_color=fff"/>
+   <img width="40%"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yuriferr&layout=compact&bg_color=20,BD00FF,0047AB&title_color=fff&text_color=fff"/>
  </div>
   
   ##
