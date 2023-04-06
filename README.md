@@ -1,5 +1,7 @@
 # 💫 About Me:
-Olá! Meu nome é Yuri, e sou um desenvolvedor de sistemas com mais de 3 anos de experiência em tecnologias diversas. Minha principal expertise envolve análise de sistemas, análise de requisitos e modelagem de dados.<br><br>Como desenvolvedor de sistemas, tenho habilidades para projetar e implementar soluções de software eficazes e escaláveis, utilizando as tecnologias mais adequadas para cada projeto. Além disso, sou capaz de realizar análise de sistemas e requisitos com precisão, avaliando as necessidades dos clientes e transformando essas informações em especificações claras para o desenvolvimento do software.
+Hello! My name is Yuri, and I am a systems developer with over 3 years of experience in various technologies. My main expertise involves system analysis, requirement analysis, and data modeling.
+
+As a systems developer, I have skills to design and implement effective and scalable software solutions, using the most appropriate technologies for each project. Additionally, I am capable of accurately performing system and requirement analysis, assessing customer needs and transforming that information into clear specifications for software development.
 
 
 ## 🌐 Socials:
