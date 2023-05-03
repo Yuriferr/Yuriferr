@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932CC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yuri+Fernandes;I'm+18+years+old;I'm+from+Brazil;I+Graduated+Software+development+and+systems+analysis+:%29)](https://git.io/typing-svg)
 
 # 💫 About Me:
-Hello! I'm Yuri, a systems developer with more than 3 years of experience in various technologies. My main expertise includes system analysis, requirement analysis, and data modeling.
+Hello! I'm Yuri, a systems developer with more than 3 years of experience working with various technologies. My main expertise lies in system analysis, requirement analysis, and data modeling.
 
-As a systems developer, I possess the skills to design and implement efficient and scalable software solutions using appropriate technologies for each project. Furthermore, I can accurately perform system and requirement analysis, evaluate customer needs, and translate that information into concise software development specifications.
+As a systems developer, I possess the skills necessary to design and implement efficient and scalable software solutions, utilizing the most suitable technologies for each project. Furthermore, I can conduct precise system and requirement analyses, evaluate customer requirements, and translate that information into precise specifications for software development.
 
 ## 📈 GitHub statistics
 
