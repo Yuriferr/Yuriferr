@@ -1,23 +1,27 @@
-# Hi there! 👋 I'm Yuri Fernandes
+# Olá! 👋 Me chamo Yuri Fernandes
 
-### Full Stack Developer | AI Enthusiast | Based in Brazil
+### Desenvolvedor Full Stack | Entusiasta de Inteligência Artificial | Baseado no Brasil
 
-🌍 **Location:** Brazil  
-📫 **Contact:** [yurifernandespreto@gmail.com](mailto:yurifernandespreto@gmail.com)  
-💼 **Portfolio:** [LinkedIn](https://www.linkedin.com/in/yuriferr/)  
-🧠 **Currently Learning:** Artificial Intelligence  
-
----
-
-## 🚀 About Me
-
-I'm a passionate Full Stack Developer with a strong interest in Artificial Intelligence. I love building scalable and efficient applications, and I'm always eager to learn new technologies and improve my skills.
+🌍 **Localização:** Brasil  
+📫 **Contato:** [yurifernandespreto@gmail.com](mailto:yurifernandespreto@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/yuriferr](https://www.linkedin.com/in/yuriferr/)  
+🧠 **Atualmente estudando:** Inteligência Artificial & Aprendizado de Máquina  
 
 ---
 
-## 🛠️ Skills
+## 🚀 Sobre Mim
 
-### Programming Languages
+Sou um Desenvolvedor Full Stack apaixonado por tecnologia, com foco em construir aplicações escaláveis, performáticas e centradas no usuário. Tenho experiência em projetos que envolvem desde o front-end até a infraestrutura em nuvem, e atualmente estou me aprofundando no universo da Inteligência Artificial, especialmente em NLP, LLMs e soluções baseadas em dados.
+
+Meu objetivo é unir desenvolvimento de software com IA para criar soluções inteligentes que resolvam problemas reais e gerem impacto. Acredito na aprendizagem contínua, no trabalho em equipe e em transformar ideias em produtos com propósito.
+
+Se você busca alguém com visão de produto, perfil analítico e paixão por inovação, vamos conversar!
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens de Programação  
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -26,7 +30,7 @@ I'm a passionate Full Stack Developer with a strong interest in Artificial Intel
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
 
-### Frontend Development
+### Front-end  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
@@ -34,20 +38,20 @@ I'm a passionate Full Stack Developer with a strong interest in Artificial Intel
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-### Backend Development
+### Back-end  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
 
-### Databases
+### Bancos de Dados  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
-### Tools & Platforms
+### Ferramentas e Plataformas  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)
@@ -56,35 +60,35 @@ I'm a passionate Full Stack Developer with a strong interest in Artificial Intel
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estatísticas do GitHub
 
 <a href="https://github.com/yuriferr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuriferr&show_icons=true&theme=dark&hide_border=true" alt="Yuri's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuriferr&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub de Yuri" />
 </a>
 
 <a href="https://github.com/yuriferr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriferr&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriferr&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" />
 </a>
 
 ---
 
-## 🌐 Socials
+## 🌐 Redes Sociais
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/yuriferr)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriferr/)
 
 ---
 
-## 🏆 Achievements
+## 🏆 Conquistas
 
-- **GitHub Followers:** [![GitHub Followers](https://img.shields.io/github/followers/yuriferr?label=Follow&style=social)](https://github.com/yuriferr)
-- **Projects:** Check out my repositories for more details!
+- **Seguidores no GitHub:** [![GitHub Followers](https://img.shields.io/github/followers/yuriferr?label=Follow&style=social)](https://github.com/yuriferr)
+- **Projetos em destaque:** Confira meus repositórios e veja o que estou desenvolvendo!
 
 ---
 
-## 📫 Let's Connect!
+## 📬 Vamos nos conectar?
 
-Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about tech!
+Se você tem ideias de colaboração, sugestões ou quer conversar sobre tecnologia, IA ou desenvolvimento, me mande uma mensagem. Estou sempre aberto a boas conexões e desafios!
 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:yurifernandespreto@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriferr/)
