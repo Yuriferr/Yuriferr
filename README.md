@@ -91,4 +91,7 @@ Se você tem ideias de colaboração, sugestões ou quer conversar sobre tecnolo
 
 ![Contador de Visitas](https://komarev.com/ghpvc/?username=yuriferr)
 
-![Snake animation](https://raw.githubusercontent.com/yuriferr/yuriferr/output/snake.svg)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/yuriferr/yuriferr/output/snake.svg" alt="Snake animation" />
+
