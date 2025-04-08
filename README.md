@@ -62,13 +62,9 @@ Se você busca alguém com visão de produto, perfil analítico e paixão por in
 
 ## 📈 Estatísticas do GitHub
 
-<a href="https://github.com/yuriferr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuriferr&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub de Yuri" />
-</a>
-
-<a href="https://github.com/yuriferr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriferr&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" />
-</a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yuriferr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ---
 
@@ -92,3 +88,5 @@ Se você tem ideias de colaboração, sugestões ou quer conversar sobre tecnolo
 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:yurifernandespreto@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriferr/)
+
+![Contador de Visitas](https://komarev.com/ghpvc/?username=yuriferr)
