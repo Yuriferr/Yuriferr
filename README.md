@@ -90,3 +90,5 @@ Se você tem ideias de colaboração, sugestões ou quer conversar sobre tecnolo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriferr/)
 
 ![Contador de Visitas](https://komarev.com/ghpvc/?username=yuriferr)
+
+![Snake animation](https://raw.githubusercontent.com/yuriferr/yuriferr/output/snake.svg)
