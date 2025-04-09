@@ -62,9 +62,11 @@ Se você busca alguém com visão de produto, perfil analítico e paixão por in
 
 ## 📈 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yuriferr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=yuriferr&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuriferr&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriferr&layout=compact&theme=dark&hide_border=true)
 
 ---
 
