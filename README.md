@@ -1,62 +1,53 @@
 # Olá! 👋 Me chamo Yuri Fernandes
 
-### Desenvolvedor Full Stack | Entusiasta de Inteligência Artificial | Baseado no Brasil
+### Engenheiro de IA | Especialista em NLP & LLMs | [cite_start]Cientista de Dados 
 
-🌍 **Localização:** Brasil  
-📫 **Contato:** [yurifernandespreto@gmail.com](mailto:yurifernandespreto@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/yuriferr](https://www.linkedin.com/in/yuriferr/)  
-🧠 **Atualmente estudando:** Inteligência Artificial & Aprendizado de Máquina  
+[cite_start]🌍 **Localização:** Belo Horizonte, MG, Brasil [cite: 19]
+[cite_start]💼 **LinkedIn:** [linkedin.com/in/yuriferr](https://www.linkedin.com/in/yuriferr/) [cite: 3]
+🤖 **Hugging Face:** [huggingface.co/Yuriferr](https://huggingface.co/Yuriferr)
+📈 **Kaggle:** [kaggle.com/yuriferr](https://www.kaggle.com/yuriferr)
+[cite_start]📫 **Contato:** [yurifernandespreto@gmail.com](mailto:yurifernandespreto@gmail.com) [cite: 2]
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou um Desenvolvedor Full Stack apaixonado por tecnologia, com foco em construir aplicações escaláveis, performáticas e centradas no usuário. Tenho experiência em projetos que envolvem desde o front-end até a infraestrutura em nuvem, e atualmente estou me aprofundando no universo da Inteligência Artificial, especialmente em NLP, LLMs e soluções baseadas em dados.
+[cite_start]Sou um **Engenheiro de IA e Especialista em NLP & LLMs** [cite: 21][cite_start], apaixonado por construir soluções inteligentes que impulsionam inovação e eficiência.
 
-Meu objetivo é unir desenvolvimento de software com IA para criar soluções inteligentes que resolvam problemas reais e gerem impacto. Acredito na aprendizagem contínua, no trabalho em equipe e em transformar ideias em produtos com propósito.
+[cite_start]Atualmente, atuo como **Analista de Dados Jr. no Banco BV** (alocado pela Datum) [cite: 31][cite_start], onde uso dados e automação para otimizar processos e fortalecer as práticas de governança na equipe de Arquitetura[cite: 32, 33].
 
-Se você busca alguém com visão de produto, perfil analítico e paixão por inovação, vamos conversar!
+[cite_start]Minha experiência inclui o desenvolvimento de modelos de IA escaláveis [cite: 23][cite_start], processamento de linguagem natural [cite: 22] [cite_start]e a integração de IA com aplicações web (React, Node.js) [cite: 23, 40] [cite_start]e deploy em nuvem (AWS, GCP)[cite: 23].
+
+[cite_start]Estou concluindo minha **Pós-graduação em IA para Devs na FIAP** [cite: 61] [cite_start]e busco ativamente oportunidades como **Engenheiro de Machine Learning** ou **AI Researcher** para aplicar minha expertise e resolver desafios reais[cite: 25].
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### Linguagens de Programação  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+### 🧠 IA & Machine Learning
+[cite_start]![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) [cite: 8]
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F8981D?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD000?logo=huggingface&logoColor=black)
+
+### ⚙️ Desenvolvimento & DevOps
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
+[cite_start]![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) [cite: 40]
+[cite_start]![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) [cite: 40]
+[cite_start]![Power Automate](https://img.shields.io/badge/-Power%20Automate-0078D4?logo=powerautomate&logoColor=white) [cite: 18]
+[cite_start]![N8N](https://img.shields.io/badge/-N8N-1A1A1A?logo=n8n&logoColor=white) [cite: 18]
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+[cite_start]![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) [cite: 23]
+[cite_start]![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white) [cite: 23]
 
-### Front-end  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-
-### Back-end  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
-
-### Bancos de Dados  
+### 🗄️ Bancos de Dados
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-
-### Ferramentas e Plataformas  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
 
 ---
 
@@ -70,26 +61,14 @@ Se você busca alguém com visão de produto, perfil analítico e paixão por in
 
 ---
 
-## 🌐 Redes Sociais
+## 🌐 Conecte-se Comigo
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/yuriferr)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriferr/)
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD000?logo=huggingface&logoColor=black)](https://huggingface.co/Yuriferr)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/yuriferr)
 
 ---
-
-## 🏆 Conquistas
-
-- **Seguidores no GitHub:** [![GitHub Followers](https://img.shields.io/github/followers/yuriferr?label=Follow&style=social)](https://github.com/yuriferr)
-- **Projetos em destaque:** Confira meus repositórios e veja o que estou desenvolvendo!
-
----
-
-## 📬 Vamos nos conectar?
-
-Se você tem ideias de colaboração, sugestões ou quer conversar sobre tecnologia, IA ou desenvolvimento, me mande uma mensagem. Estou sempre aberto a boas conexões e desafios!
-
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:yurifernandespreto@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriferr/)
 
 ![Contador de Visitas](https://komarev.com/ghpvc/?username=yuriferr)
 
@@ -98,4 +77,3 @@ Se você tem ideias de colaboração, sugestões ou quer conversar sobre tecnolo
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuriferr/yuriferr/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuriferr/yuriferr/output/github-contribution-grid-snake.svg">
 </picture>
-
